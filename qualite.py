@@ -3,6 +3,7 @@ import re
 import math
 from donnees import LOT_A
 
+
 # Paramètres du contrôle qualité
 NOMINAL = 25.00
 TOLERANCE = 0.05
